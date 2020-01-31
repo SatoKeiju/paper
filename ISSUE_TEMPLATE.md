@@ -13,13 +13,10 @@
 # Abstract
 
 
-# Outline
+# Context/Logic
 
 
 # Criticized theory
-
-
-# Context/Logic
 
 
 # Improvements from previous research
@@ -41,4 +38,3 @@
 
 
 ### memo
-
